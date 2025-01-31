@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://oneshopuz.tilda.ws/telenavo">
+    <title>Yuborilmoqda...</title>
+</head>
+<body>
+    <p>Agar avtomatik yo‘naltirilmasangiz, <a href="https://oneshopuz.tilda.ws/telenavo">bu yerga bosing</a>.</p>
+</body>
+</html>
